@@ -1,0 +1,34 @@
+commit f6e4836cc7180d94753afc3b15c2655f7b05d922
+Author: Victor <victor_cul95@hotmail.com>
+Date:   Wed Sep 9 16:44:28 2015 -0600
+
+    Pie de pagina agregado
+
+commit 0944cf13685494d221ff798eedb13361d46cdb87
+Author: Victor <victor_cul95@hotmail.com>
+Date:   Wed Sep 9 16:34:50 2015 -0600
+
+    Formulario Agregado
+
+commit 820b9a8ce8fd77d7e22a3d738b33ae726496162a
+Author: Victor <victor_cul95@hotmail.com>
+Date:   Wed Sep 9 16:29:01 2015 -0600
+
+    pagina con logo
+
+commit 816a2f66c7cc1d53d273cc421855773fc1c22ec9
+Author: Victor <victor_cul95@hotmail.com>
+Date:   Tue Sep 8 16:53:52 2015 -0600
+
+    Titulo agregado itc
+
+commit 7503067e1715d14994d6ebc3d02fe796aa052708
+Author: Victor <victor_cul95@hotmail.com>
+Date:   Tue Sep 8 16:38:41 2015 -0600
+
+    Proyecto en blanco
+t 7503067e1715d14994d6ebc3d02fe796aa052708
+Author: Victor <victor_cul95@hotmail.com>
+Date:   Tue Sep 8 16:38:41 2015 -0600
+
+    Proyecto en blanco
